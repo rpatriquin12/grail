@@ -87,6 +87,18 @@ padding-left: 34px !important;
     font-weight: bold !important;
 }
 
+/** recent updates **/
+
+#UpdatableContent th.middle span, #UpdatableContent td.middle span {
+    border-left: 0px solid #CACACA !important;
+    border-right: 0px solid #CACACA !important;
+}
+
+
+
+
+
+
 /**  Viewer **/
 
 #ViewerArea {

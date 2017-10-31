@@ -1,6 +1,6 @@
 {
   "name": "EBSCO UX: Responsive UI",
-  "version": "2.5",
+  "version": "2.7",
   "manifest_version": 2,
   "description": "EBSCO UX: Responsive UI",
   "homepage_url": "http://graildesignsystem.com",
@@ -17,7 +17,7 @@
     },
   "background": {
     "page": "src/bg/background.html"
-   // "persistent": false
+   
   },
   
   "permissions": [
